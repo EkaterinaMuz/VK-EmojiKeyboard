@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VK-EmojiKeyboard/static/css/main.9935992c.css",
+    "main.js": "/VK-EmojiKeyboard/static/js/main.4e7f7ced.js",
+    "static/media/SFProText-Regular.ttf": "/VK-EmojiKeyboard/static/media/SFProText-Regular.90da7ab18293ca42e335.ttf",
+    "static/media/icon-input.svg": "/VK-EmojiKeyboard/static/media/icon-input.e34e5ba76ffa10b843ca1b3f3f749190.svg",
+    "static/media/icon-recent.svg": "/VK-EmojiKeyboard/static/media/icon-recent.b95ee132583de216d8f6cf233942515a.svg",
+    "index.html": "/VK-EmojiKeyboard/index.html",
+    "main.9935992c.css.map": "/VK-EmojiKeyboard/static/css/main.9935992c.css.map",
+    "main.4e7f7ced.js.map": "/VK-EmojiKeyboard/static/js/main.4e7f7ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9935992c.css",
+    "static/js/main.4e7f7ced.js"
+  ]
+}
